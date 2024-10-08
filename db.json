@@ -1,0 +1,7 @@
+{
+    "restaurant":[
+        {"id":1, "name": "author", "type": "abc"},
+        {"id":2, "name": "abcdef", "type": "def"}
+
+    ]
+}
